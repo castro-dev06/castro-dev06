@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently, I'm in the 1st semester of college, studying Systems Analysis and Development (ADS).<br>🎲 Goals: to secure an internship in the field and continuously improve my skills in the JAVA language and its related frameworks (Springs).</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently, I'm in the 1st semester of college, studying Systems Analysis and Development (ADS).<br>🎲 Objectives: to secure an internship in the field and continuously improve my skills in the JAVA language and its related frameworks (Springs).</p>
 
 ###
 
