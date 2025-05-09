@@ -1,35 +1,33 @@
-<h1 align="left">System.out.println("Welcome to my github!😆")</h1>
+<h1 align="left">System.out.println("Bem-vindo ao meu GitHub!😆")</h1>
 
 ###
 
-<p align="left">My name is Murilo, and I'm a very curious young person, eager to learn new topics every day in the programming</p>
+<p align="left">Meu nome é Murilo, e sou uma pessoa muito curiosa, com muita vontade de aprender coisas novas todos os dias na área da programação.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently, I'm in the 1st semester of college, studying Systems Analysis and Development (ADS).<br>🎲 Objectives: To secure an internship in the field and continuously improve my skills in the JAVA language and its related frameworks (Springs).</p>
+<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas (ADS).<br>🎲 Objetivos: Conquistar um estágio na área e aprimorar continuamente minhas habilidades na linguagem JAVA e nos frameworks relacionados (Spring).</p>
 
 ###
 
-<h2 align="left">Goals</h2>
+<h2 align="left">Metas</h2>
 
 ###
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo java"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo spring"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="logo mongodb"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="logo react"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="logo amazonwebservices"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="logo docker"  />
   </div>
-  
-  ###
