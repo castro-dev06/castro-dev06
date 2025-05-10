@@ -1,33 +1,35 @@
-<h1 align="left">System.out.println("Bem-vindo ao meu GitHub!😆")</h1>
+<h1 align="center">System.out.println("Bem-vindo ao meu GitHub! 😆")</h1>
 
-###
+<p align="center">
+  📚 1º semestre | Estudante de Análise e Desenvolvimento de Sistemas <br>
+  🎯 Focado em me tornar um Desenvolvedor Java <br>
+  👦🏻 Pronomes: ele/dele
+</p>
 
-<p align="left">Meu nome é Murilo, e sou uma pessoa muito curiosa, com muita vontade de aprender coisas novas todos os dias na área da programação.</p>
+---
 
-###
+### 🛠️ Tecnologias
 
-<h2 align="left">Sobre mim</h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-###
+---
 
-<p align="left">✨ Criando bugs desde 2024<br>📚 Atualmente estou no 1º semestre da faculdade, cursando Análise e Desenvolvimento de Sistemas (ADS).<br>🎲 Objetivos: Conquistar um estágio na área e aprimorar continuamente minhas habilidades na linguagem JAVA e nos frameworks relacionados (Spring).</p>
+### 📊 Estatísticas do GitHub
 
-###
+<div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=castro-dev06&show_icons=true&theme=gruvbox&hide_title=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=castro-dev06&layout=compact&theme=gruvbox" alt="Linguagens mais usadas" width="35%" />
+</div>
 
-<h2 align="left">Metas</h2>
+---
 
-###
+### 📱 Redes Sociais
 
-<div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="logo java"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="logo spring"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="logo mongodb"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="logo react"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="logo amazonwebservices"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="logo docker"  />
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-castro-3434561ab/)
+[![Gmail](https://img.shields.io/badge/Email-murilocastrolivek@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilocastrolivek@gmail.com)
+
+---
+
+
